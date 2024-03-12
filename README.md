@@ -32,7 +32,7 @@
 2. 클론한 디렉토리로 이동합니다.
 
     ```bash
-    cd airbnb-clone
+    cd project_cloneWeb
     ```
 
 3. `index.html` 파일을 웹 브라우저로 엽니다.
